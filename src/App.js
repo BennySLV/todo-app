@@ -4,7 +4,9 @@ function App() {
 			<h1>My To-dos</h1>
 			<div>
 				<h2>TITLE</h2>
-				<button></button>
+				<div>
+					<button>Delete</button>
+				</div>
 			</div>
 		</div>
 	);
